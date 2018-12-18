@@ -1,1 +1,2 @@
-# fido-api-docs
+# [fido-api-docs](https://arbor.github.io/fido-api-docs)
+
